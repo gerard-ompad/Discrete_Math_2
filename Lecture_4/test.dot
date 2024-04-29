@@ -1,0 +1,7 @@
+strict graph "" {
+	A -- F;
+	B -- E;
+	C -- D;
+	C -- E;
+	E -- F;
+}
